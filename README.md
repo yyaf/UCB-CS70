@@ -10,3 +10,7 @@ it's totally just that I like to operate in one document.
 这个仓库的所有内容来自2024 spring版本。
 ALL IN ONE 里面的内容是我把所有小的文件整合成对应专题的大的文件，就不用在繁杂的notes之间切换了，
 当然原版也在，完全只是我喜欢在一个文档里操作而已。
+
+[2015] UCB CS70 Discrete Mathematics and Probability Theory (BiliBili)：https://www.bilibili.com/video/BV1gf4y1q7UY
+
+EECS 70 Discrete mathematics and probability theory - UC Berkeley (YouTube）：https://www.youtube.com/watch?v=HEfu_XQo3Rw&list=PLu0nzW8Es1x0Ivn-757Za_ps090FJxOPd
